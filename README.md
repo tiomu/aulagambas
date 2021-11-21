@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=fQLMD3AYX-o<br>
 Tio Mu desenvolve um aplicativo portátil com AppImage e Gambas3<br>
 https://www.youtube.com/watch?v=KzmO_o-53LQ<br>
 
-Gostou de projeto? Apoie o Tio Mu!<br>
+Gostou do projeto? Apoie o Tio Mu!<br>
 Veja abaixo como você pode me apoiar.<br>
 
 Banco do Brasil AG: 0766-8 C/P: 23893-7<br>
