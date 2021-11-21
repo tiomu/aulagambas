@@ -1,0 +1,24 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,69,39)
+  Text = ("Aula Gambas")
+  Resizable = False
+  { Label1 Label
+    MoveScaled(2,2,65,5)
+    Font = Font["Bold,12"]
+    Alignment = Align.Center
+    Text = ("Clique no botão abaixo e veja o que acontece")
+  }
+  { Button1 Button
+    MoveScaled(24,14,22,6)
+    Font = Font["Bold,12"]
+    Text = ("Clique em mim")
+  }
+  { lblInfo Label
+    MoveScaled(2,26,64,7)
+    Font = Font["12"]
+    Alignment = Align.Center
+    Text = ("Veja o texto alterar aqui")
+  }
+}
